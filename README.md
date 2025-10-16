@@ -1,4 +1,6 @@
-# ReHiFace-S 🤖🤖🤖
+# Duix reface - 🚀 Truly open-source real-time, high-fidelity face-swap engine for AI avatar(digital human)
+
+🔗 **Office website:** [www.duix.com](http://www.duix.com)
 
 ## 🚀 Introduction
 
